@@ -28,6 +28,12 @@ To install the required packages:
 pip install opencv-python mediapipe numpy pillow ipython
 ```
 
+Or: 
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Gesture Controls
 
 The application recognizes several hand gestures for different drawing operations:
